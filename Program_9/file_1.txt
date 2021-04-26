@@ -1,0 +1,3 @@
+Hello, this is just a demo file and the content
+in this file will be read and then will be printed into 
+another file with the help of python.
